@@ -11,7 +11,7 @@
 public class array {
 
   public static void main(String[] args) {
-    int[] input = { 24, 21, 47, 40, 42, 7, 5, 80, 120, 200,100,101 };
+    int[] input = { 24, 21, 47, 40, 42, 7, 5, 80, 120, 200 };
 
     bubbleSort(input);
 
